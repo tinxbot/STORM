@@ -222,9 +222,9 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {132472033,120518968},--Sudo users
+    sudo_users = {132472033,147222870},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {83053213},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[STORM v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 

@@ -224,11 +224,12 @@ function create_config( )
     },
     sudo_users = {132472033,120518968},--Sudo users
     disabled_channels = {},
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[STORM v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/arman021/STORM
 
 Admins
 @iwals [Founder]
